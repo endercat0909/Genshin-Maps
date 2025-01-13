@@ -19,6 +19,7 @@
 > On June 21, 2019, the CBT of Genshin Impact officially launched and ended on June 25, 2019.
 
 ![CBT1 (Image solution soon)](https://docimg8.docs.qq.com/image/AgAABV8Nj784_s4QqOZDsKGxBj8DgVLf.png)
+(Raw URL: `https://docimg8.docs.qq.com/image/AgAABV8Nj784_s4QqOZDsKGxBj8DgVLf.png`)
 
 Debut of Teyvat map in its preliminary style.
 
