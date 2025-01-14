@@ -18,11 +18,18 @@
 ## CBT.1 1.0.0
 > On June 21, 2019, the CBT of Genshin Impact officially launched and ended on June 25, 2019.
 
-![CBT1 (Image solution soon)](https://docimg8.docs.qq.com/image/AgAABV8Nj784_s4QqOZDsKGxBj8DgVLf.png)
-(Raw URL: `https://docimg8.docs.qq.com/image/AgAABV8Nj784_s4QqOZDsKGxBj8DgVLf.png`)
+![CBT1 (Image solution soon)](https://docimg8.docs.qq.com/image/AgAABV8Nj784_s4QqOZDsKGxBj8DgVLf.png?w=3584&h=1024)
+(Raw URL: `https://docimg8.docs.qq.com/image/AgAABV8Nj784_s4QqOZDsKGxBj8DgVLf.png?w=3584&h=1024`)
 
 Debut of Teyvat map in its preliminary style.
 
 ### CBT.1 1.1.0 (Texture To Be Confirmed)
 ### CBT.1 1.2.0
-
+![CBT1 1.2.0 (Image solution soon)](https://docimg4.docs.qq.com/image/AgAABV8Nj78jr0cIksNNIbqDCyF4mtn5.png?w=3584&h=1536)
+(Raw URL: `(Raw URL: `https://docimg8.docs.qq.com/image/AgAABV8Nj784_s4QqOZDsKGxBj8DgVLf.png?w=3584&h=1024`)
+### CBT.1 1.3.0 Dev Built - Same as above
+### CBT.1 1.3.0 - Same as above
+### CBT.1 1.3.1 - Same as above
+### CBT.1 2.0.0 (Does this version even exist?)
+---
+### CBT.2 0.7.0 - Same as below
