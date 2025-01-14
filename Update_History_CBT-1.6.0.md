@@ -26,7 +26,7 @@ Debut of Teyvat map in its preliminary style.
 ### CBT.1 1.1.0 (Texture To Be Confirmed)
 ### CBT.1 1.2.0
 ![CBT1 1.2.0 (Image solution soon)](https://docimg4.docs.qq.com/image/AgAABV8Nj78jr0cIksNNIbqDCyF4mtn5.png?w=3584&h=1536)
-(Raw URL: `(Raw URL: `https://docimg8.docs.qq.com/image/AgAABV8Nj784_s4QqOZDsKGxBj8DgVLf.png?w=3584&h=1024`)
+(Raw URL: `https://docimg4.docs.qq.com/image/AgAABV8Nj78jr0cIksNNIbqDCyF4mtn5.png?w=3584&h=1536`)
 ### CBT.1 1.3.0 Dev Built - Same as above
 ### CBT.1 1.3.0 - Same as above
 ### CBT.1 1.3.1 - Same as above
